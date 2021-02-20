@@ -11,6 +11,7 @@ python sort_columns.py input output columns_id ...
 ### Input file (input.xlsx)
 
 | 1 | 2 | 3 | 4 | 5 | ... |
+|---|---|---|---|---|-----|
 | 1 | 2 | 3 | 4 | 5 | ... |
 | 1 | 2 | 3 | 4 | 5 | ... |
 | 1 | 2 | 3 | 4 | 5 | ... |
@@ -24,6 +25,7 @@ python sort_columns.py input.xlsx output.xlsx 3 1 2 4 5
 ### Output file (output.xlsx)
 
 | 3 | 1 | 2 | 4 | 5 | ... |
+|---|---|---|---|---|-----|
 | 3 | 1 | 2 | 4 | 5 | ... |
 | 3 | 1 | 2 | 4 | 5 | ... |
 | 3 | 1 | 2 | 4 | 5 | ... |
